@@ -1,0 +1,23 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\C. Ho\\OneDrive - Bunker Hill Community College\\Documents\\BHCC 2024 Spring\\CSC-239_Java\\javafx-sdk-21.0.2\\lib\\javafx.base.jar",
+        "c:\\Users\\C. Ho\\OneDrive - Bunker Hill Community College\\Documents\\BHCC 2024 Spring\\CSC-239_Java\\javafx-sdk-21.0.2\\lib\\javafx.controls.jar",
+        "c:\\Users\\C. Ho\\OneDrive - Bunker Hill Community College\\Documents\\BHCC 2024 Spring\\CSC-239_Java\\javafx-sdk-21.0.2\\lib\\javafx.fxml.jar",
+        "c:\\Users\\C. Ho\\OneDrive - Bunker Hill Community College\\Documents\\BHCC 2024 Spring\\CSC-239_Java\\javafx-sdk-21.0.2\\lib\\javafx.graphics.jar",
+        "c:\\Users\\C. Ho\\OneDrive - Bunker Hill Community College\\Documents\\BHCC 2024 Spring\\CSC-239_Java\\javafx-sdk-21.0.2\\lib\\javafx.media.jar",
+        "c:\\Users\\C. Ho\\OneDrive - Bunker Hill Community College\\Documents\\BHCC 2024 Spring\\CSC-239_Java\\javafx-sdk-21.0.2\\lib\\javafx.swing.jar",
+        "c:\\Users\\C. Ho\\OneDrive - Bunker Hill Community College\\Documents\\BHCC 2024 Spring\\CSC-239_Java\\javafx-sdk-21.0.2\\lib\\javafx.web.jar",
+        "c:\\Users\\C. Ho\\OneDrive - Bunker Hill Community College\\Documents\\BHCC 2024 Spring\\CSC-239_Java\\javafx-sdk-21.0.2\\lib\\javafx-swt.jar",
+        "c:\\Users\\bhcc\\javafx-sdk-21.0.2\\lib\\javafx.base.jar",
+        "c:\\Users\\bhcc\\javafx-sdk-21.0.2\\lib\\javafx.controls.jar",
+        "c:\\Users\\bhcc\\javafx-sdk-21.0.2\\lib\\javafx.fxml.jar",
+        "c:\\Users\\bhcc\\javafx-sdk-21.0.2\\lib\\javafx.graphics.jar",
+        "c:\\Users\\bhcc\\javafx-sdk-21.0.2\\lib\\javafx.media.jar",
+        "c:\\Users\\bhcc\\javafx-sdk-21.0.2\\lib\\javafx.swing.jar",
+        "c:\\Users\\bhcc\\javafx-sdk-21.0.2\\lib\\javafx.web.jar",
+        "c:\\Users\\bhcc\\javafx-sdk-21.0.2\\lib\\javafx-swt.jar"
+    ]
+}
